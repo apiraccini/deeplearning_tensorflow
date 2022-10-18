@@ -1,2 +1,3 @@
-# deeplearning_tensorflow
-Notebooks covering different deep learning topics with Tensorflow 2.x 
+# Deep learning - Tensorflow
+
+This repository contains notebooks I use to exercise with deep learning using Tensorflow. 
